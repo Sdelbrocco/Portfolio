@@ -1,0 +1,5 @@
+C:\_repos\samantha-delbrocco-individual-work\Week 7\SamsHRPortal\HRPortal.Models\bin\Debug\HRPortal.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 7\SamsHRPortal\HRPortal.Models\bin\Debug\HRPortal.Models.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 7\SamsHRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.csprojResolveAssemblyReference.cache
+C:\_repos\samantha-delbrocco-individual-work\Week 7\SamsHRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 7\SamsHRPortal\HRPortal.Models\obj\Debug\HRPortal.Models.pdb

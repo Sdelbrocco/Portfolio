@@ -1,0 +1,37 @@
+﻿@model IEnumerable<HRPortal.Models.Application>
+@{
+    ViewBag.Title = "See Applications";
+}
+
+<div class="row">
+    <div class="col-xs-12 col-sm-12">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>Potential Employees</h2>
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Education</th>
+                            <th>Job History</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var app in Model)
+                        {
+                            <tr>
+                                <td>@app.Person.FirstName</td>
+                                <td>@app.Person.LastName</td>
+                                <td>@app.Education</td>
+                                <td>@app.WorkHistory</td>
+                                <td>@Html.ActionLink("Send Inquiry", "SendInquiry", "Employer", new { personId = app.Person.Id }, null)</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

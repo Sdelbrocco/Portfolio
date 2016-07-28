@@ -1,0 +1,42 @@
+﻿@model IEnumerable<HRPortal.Models.Job>
+
+@{
+    ViewBag.Title = "job Index";
+}
+
+<div class="row">
+    <div class="col-xs-12 col-sm-9">
+        <div class="row">
+            <div class="col-xs-12">
+                <h4>job Index</h4>
+                <p>@Html.ActionLink("Post job", "AddJob", "Jobs", null, new { @class = "btn btn-primary" })</p>
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Company</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var job in Model)
+                    {
+                        <tr>
+                            <td>@job.Company.Name</td>
+                            <td>@job.Title</td>
+                            <td>@job.JobDescription</td>
+                            <td>
+                                @Html.ActionLink("View", "Details", "Jobs", new {jobId = job.Id}, null) |
+                                @Html.ActionLink("Apply", "Apply", "Jobs", new {jobId = job.Id}, null) |
+                                @Html.ActionLink("Edit", "Edit", "jobs", new {jobId = job.Id}) |
+                                @Html.ActionLink("Delete", "Delete", "jobs", new {})
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

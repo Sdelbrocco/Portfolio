@@ -1,0 +1,73 @@
+﻿@model HRPortal.Models.Application
+
+@{
+    ViewBag.Title = "Apply job";
+}
+
+<div class="row">
+    <div class="col-xs-12 col-sm-9">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Apply</h3>
+                <div class="row">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.HiddenFor(j=>j.JobId)
+                        @Html.ValidationSummary(true)
+                        <div class="col-xs-12 col-sm-7">
+                            <div class="panel panel-primary">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Personal Details</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="form-group">
+                                        <label>First Name: </label>
+                                        @Html.TextBoxFor(j=>j.Person.FirstName, new {@class ="form-control"})
+                                        @Html.ValidationMessageFor(j=>j.Person.FirstName)
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Last Name: </label>
+                                        @Html.TextBoxFor(j => j.Person.LastName, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(j => j.Person.LastName)
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Address: </label>
+                                        @Html.TextBoxFor(j => j.Person.Address, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(j=>j.Person.Address)
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Phone: </label>
+                                        @Html.TextBoxFor(j => j.Person.PhoneNumber, new {@class = "form-control"})
+                                        @Html.ValidationMessageFor(j=>j.Person.PhoneNumber)
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Education: </label>
+                                        @Html.TextBoxFor(j => j.Education, new {@class = "form-control"})
+                                        @Html.ValidationMessageFor(j=>j.Education)
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Salary: </label>
+                                        @Html.TextBoxFor(j => j.Salary, new {@class = "form-control"})
+                                        @Html.ValidationMessageFor(j => j.Salary)
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Work History: </label>
+                                        @Html.TextBoxFor(j => j.WorkHistory, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(j => j.WorkHistory)
+                                    </div>
+                                    <button class="btn btn-primary">Save job</button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/scripts/jquery.validate.min.js"></script>
+    <script src="~/scripts/jquery.validate.unobtrusive.js"></script>
+}
