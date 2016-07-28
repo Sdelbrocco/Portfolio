@@ -1,0 +1,9 @@
+C:\_repos\Practice\Week 1\Kata\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.exe.config
+C:\_repos\Practice\Week 1\Kata\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.exe
+C:\_repos\Practice\Week 1\Kata\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+C:\_repos\Practice\Week 1\Kata\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojResolveAssemblyReference.cache
+C:\_repos\Practice\Week 1\Kata\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.exe
+C:\_repos\Practice\Week 1\Kata\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 1\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.exe.config
+C:\_repos\samantha-delbrocco-individual-work\Week 1\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.exe
+C:\_repos\samantha-delbrocco-individual-work\Week 1\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
