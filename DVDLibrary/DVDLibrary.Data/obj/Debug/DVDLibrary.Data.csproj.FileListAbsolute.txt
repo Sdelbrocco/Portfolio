@@ -1,0 +1,7 @@
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.csprojResolveAssemblyReference.cache
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.pdb

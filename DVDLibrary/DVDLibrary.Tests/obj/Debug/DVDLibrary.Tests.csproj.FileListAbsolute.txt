@@ -1,0 +1,11 @@
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.Tests.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.Tests.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.BLL.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.Data.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.BLL.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.Data.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\bin\Debug\DVDLibrary.Models.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\obj\Debug\DVDLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\obj\Debug\DVDLibrary.Tests.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 9\DVDLibrary\DVDLibrary.Tests\obj\Debug\DVDLibrary.Tests.pdb
