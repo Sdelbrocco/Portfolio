@@ -1,0 +1,5 @@
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb

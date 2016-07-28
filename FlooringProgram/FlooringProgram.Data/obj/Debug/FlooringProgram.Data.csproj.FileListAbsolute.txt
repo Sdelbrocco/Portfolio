@@ -1,0 +1,8 @@
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\obj\Debug\FlooringProgram.Data.csprojResolveAssemblyReference.cache
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Data.dll.config
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Data.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Data.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Models.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Models.pdb
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\obj\Debug\FlooringProgram.Data.dll
+C:\_repos\samantha-delbrocco-individual-work\Week 5\FlooringProgram\FlooringProgram.Data\obj\Debug\FlooringProgram.Data.pdb
